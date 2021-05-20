@@ -1,0 +1,29 @@
+{
+  "name": "random_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2",
+    "discord.js": "^12.5.1",
+    "newsapi": "^2.4.1",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "optionalDependencies": {
+    "fsevents": "^1.2.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandmanviii/slackbotv2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandmanviii/slackbotv2/issues"
+  },
+  "homepage": "https://github.com/sandmanviii/slackbotv2#readme"
+}
